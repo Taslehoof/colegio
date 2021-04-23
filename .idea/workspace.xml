@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85aa86b5-c15e-4ca0-9b90-1467aa54b07c" name="Default Changelist" comment="Conexion a Postgres">
-      <change afterPath="$PROJECT_DIR$/.flattened-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/.flattened-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datanucleus.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-simple/.flattened-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/.flattened-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor/Profesor.layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor/Profesor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor/ProfesorRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/logs/AuditerServiceLogging.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/logs/PublisherServiceLogging.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/logs/ThreadPoolSupport.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/logs/sql-ddl.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/logs/sql-dml.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/colegio-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/application/colegio-application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/domainapp/application/manifest/menubars.layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/domainapp/application/manifest/menubars.layout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/translations.pot" beforeDir="false" afterPath="$PROJECT_DIR$/application/translations.pot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-simple/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module-simple/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datanucleus.log" beforeDir="false" afterPath="$PROJECT_DIR$/datanucleus.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module-simple/translations.pot" beforeDir="false" afterPath="$PROJECT_DIR$/module-simple/translations.pot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/colegio-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/colegio-webapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +50,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module-simple/src/main/java/domainapp/modules/simple/dom/profesor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="domainapp.modules.simple.dom.profesor" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="All in colegio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -94,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618752158883</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit segundo">
+      <created>1618759945001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618759945001</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +129,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit inicial" />
     <MESSAGE value="Conexion a Postgres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conexion a Postgres" />
+    <MESSAGE value="Commit segundo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit segundo" />
   </component>
 </project>
